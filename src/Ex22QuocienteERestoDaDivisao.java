@@ -9,6 +9,6 @@ public class Ex22QuocienteERestoDaDivisao {
         double numero2 = sc.nextDouble();
         double quociente = numero1 / numero2;
         double resto = numero1 % numero2;
-        System.out.printf("O quociente da divisão é: %.2f . E o resto da divisão é: %.2f%n", quociente, resto);
+        System.out.printf("O quociente da divisão é: %.2f. E o resto da divisão é: %.2f%n", quociente, resto);
     }
 }
