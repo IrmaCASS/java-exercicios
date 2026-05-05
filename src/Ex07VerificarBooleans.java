@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Ex07VerificarBooleans {
     public static void main(String[] args) {
